@@ -1,0 +1,9 @@
+name: markdown
+display_name: Markdown
+overview_html: It's a popular format for writing documentation and notes, but which .NET libraries support it best?
+description_html: |
+  <blockquote>
+    <p>Markdown is a lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.  Markdown is often used to format README files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+    </p>
+    <cite> &mdash; <a href="https://en.wikipedia.org/wiki/Markdown">Wikipedia </a> </cite>
+  </blockquote>
