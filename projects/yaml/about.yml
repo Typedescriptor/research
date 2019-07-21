@@ -1,0 +1,9 @@
+name: yaml
+display_name: YAML
+overview_html: A common configuration language with complex rules and no built-in .NET implementation.  Here's what we found.
+description_html: |
+  <blockquote>
+    <p>YAML ("YAML Ain't Markup Language") is a human-readable data-serialization language. It is commonly used for configuration files, but could be used in many applications where data is being stored (e.g. debugging output) or transmitted (e.g. document headers).
+    </p>
+    <cite> &mdash; <a href="https://en.wikipedia.org/wiki/Markdown">Wikipedia </a> </cite>
+  </blockquote>
